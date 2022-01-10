@@ -31,7 +31,7 @@
     <p>Already have an account? <a href="#">Sign in</a>.</p>
   </div>
 
-   <h1> Thankyou Everyone, Happy Learning, Bigyan sedhai AWS Devops Final change </h1>
+   <h1> Thankyou Everyone, Happy Learning, Bigyan sedhai AWS Devops Final change,kubernetes </h1>
 
   
 </form>
